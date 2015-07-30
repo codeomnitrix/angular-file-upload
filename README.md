@@ -22,6 +22,6 @@ You could find this module in bower like [_angular file upload_](http://bower.io
 3. [FAQ](https://github.com/nervgh/angular-file-upload/wiki/FAQ)
 4. [Migrate from 0.x.x to 1.x.x](https://github.com/nervgh/angular-file-upload/wiki/Migrate-from-0.x.x-to-1.x.x)
 5. [RubyGem](https://github.com/marthyn/angularjs-file-upload-rails)
-6. 
+
 
 Forked from https://github.com/nervgh/angular-file-upload
